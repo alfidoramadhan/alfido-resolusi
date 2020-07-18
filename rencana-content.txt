@@ -1,5 +1,7 @@
 - javascript
   *vue
+  *ES6
 - php
   *laravel
 - struktur data
+- python
