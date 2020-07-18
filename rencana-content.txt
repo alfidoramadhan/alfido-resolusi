@@ -1,5 +1,7 @@
 - javascript
-  *vue
+  *angular
+  *react
 - php
   *laravel
 - struktur data
+- css
